@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # Ai-summarizer
 # GPT4_samenvatter
 # GPT4_samenvatter
+# GPT4_samenvatter
